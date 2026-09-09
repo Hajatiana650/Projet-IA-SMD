@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent
+2001,Allison Hill,24,Female,Philadelphia,2022-03-20,7885.34
+2002,Noah Rhodes,45,Male,San Antonio,2023-10-05,4405.6
+2003,Angie Henderson,34,Male,Jacksonville,2023-01-25,9575.37
+2004,Daniel Wagner,18,Male,Philadelphia,2024-06-12,3681.7
+2005,Cristian Santos,22,Female,San Jose,2024-06-02,7154.34
+2006,Connie Lawrence,60,Male,Jacksonville,2023-10-05,9037.23
+2007,Abigail Shaffer,50,Female,Austin,2023-09-08,5160.66
+2008,Gina Moore,38,Female,Jacksonville,2024-04-16,4752.28
+2009,Gabrielle Davis,53,Male,Houston,2023-08-29,6476.38
+2010,Ryan Munoz,60,Female,Austin,2024-05-11,3227.72
+2011,Monica Herrera,57,Female,San Antonio,2022-12-23,6931.03
+2012,Jamie Arnold,37,Female,Houston,2022-01-01,3974.63
+2013,Lisa Hensley,68,Female,San Diego,2024-05-30,7488.84
+2014,Michele Williams,46,Male,Dallas,2024-06-23,2903.46
+2015,Dylan Miller,68,Male,Austin,2024-08-27,10080.72
+2016,Brian Ramirez,36,Female,Los Angeles,2022-06-23,7967.68
+2017,Holly Wood,61,Female,Houston,2023-04-27,3364.54
+2018,Derek Zuniga,27,Male,New York,2023-02-12,6912.9
+2019,Lisa Jackson,48,Male,San Diego,2023-05-17,4610.65
+2020,Carla Gray,58,Male,Jacksonville,2024-04-28,9899.56
+2021,Margaret Hawkins DDS,49,Female,Houston,2024-02-26,3532.35
+2022,Patty Perez,59,Male,Los Angeles,2022-10-30,3669.03
+2023,Ethan Adams,32,Male,Jacksonville,2024-05-20,9219.77
+2024,Tommy Walter,47,Male,Dallas,2024-11-26,8511.3
+2025,Matthew Foster,25,Female,Chicago,2023-05-26,7441.21
+2026,Judy Baker,60,Female,San Diego,2024-08-09,8047.85
+2027,Justin Baker,45,Female,Chicago,2024-10-30,9474.7
+2028,Stephanie Ross,46,Female,Houston,2024-08-30,2419.93
+2029,Zachary Hicks,67,Female,Austin,2023-07-22,6712.37
+2030,Anthony Rodriguez,35,Female,Los Angeles,2023-05-05,4769.95
+2031,Rebecca Henderson,33,Female,Philadelphia,2023-08-09,5654.06
+2032,James Ferrell,52,Male,Chicago,2023-10-17,6504.94
+2033,Tricia Valencia,32,Female,Jacksonville,2022-11-05,8356.26
+2034,Nathan Maldonado,63,Male,Los Angeles,2022-11-09,5994.29
+2035,Debra Davidson,44,Female,Dallas,2024-04-29,7209.95
+2036,Jeffrey Chavez,44,Male,Houston,2024-08-12,7057.32
+2037,Sherri Baker,42,Male,San Jose,2024-05-10,8536.53
+2038,Cassandra Gaines,48,Male,Philadelphia,2024-02-19,5838.24
+2039,Elizabeth Fowler,66,Female,San Antonio,2023-09-04,10863.53
+2040,Brittany Farmer,49,Male,Phoenix,2023-03-28,3223.75
+2041,Paula Moreno,49,Male,San Antonio,2024-06-11,7133.39
+2042,Fred Smith,60,Female,Jacksonville,2023-11-20,8559.12
+2043,Sherry Decker,47,Male,San Jose,2022-12-05,7430.13
+2044,Anthony Humphrey,19,Female,San Jose,2024-12-29,7496.43
+2045,Angelica Tucker,23,Female,Chicago,2022-02-25,5159.07
+2046,Philip Cannon,29,Male,Phoenix,2024-08-03,4206.27
+2047,John Pierce,38,Male,San Diego,2024-02-16,5221.68
+2048,Shane Henderson,39,Female,Phoenix,2023-11-01,5026.01
+2049,Joshua Blair,34,Male,San Diego,2024-05-13,5271.32
+2050,Eric Carney,65,Male,Philadelphia,2022-02-09,4450.31
+2051,Jessica Holmes,59,Male,Austin,2023-04-05,3936.64
+2052,Danny Morgan,66,Male,Houston,2022-03-24,10278.26
+2053,Crystal Robinson,19,Male,Houston,2023-02-13,3941.63
+2054,Mark Perez,48,Male,San Jose,2022-09-16,2331.43
+2055,Shannon Jones,47,Female,Philadelphia,2023-03-23,8142.14
+2056,Michael Lewis,56,Male,Chicago,2022-12-10,4518.29
+2057,Timothy Duncan,24,Male,Phoenix,2023-09-30,6033.67
+2058,Richard Aguirre,43,Male,Los Angeles,2024-02-08,6206.53
+2059,Brent Jordan,24,Female,Austin,2023-05-13,6317.45
+2060,John Daniel,68,Male,Philadelphia,2022-09-05,5648.26
+2061,Victoria Garcia,45,Female,Los Angeles,2024-12-27,7237.19
+2062,Gerald Hensley,59,Female,New York,2024-11-02,7469.99
+2063,Connor West,70,Female,Los Angeles,2024-05-10,7241.01
+2064,Donald Wright,41,Female,Jacksonville,2024-06-06,7139.38
+2065,Jessica Callahan,45,Male,Jacksonville,2022-11-10,4178.39
+2066,Amber Kidd,59,Female,San Jose,2024-12-04,5738.09
+2067,Tracy House,47,Female,Jacksonville,2024-09-17,8908.93
+2068,Carol Tucker,38,Male,Los Angeles,2023-07-04,7641.49
+2069,James Brown,46,Male,San Diego,2023-07-26,3946.09
+2070,William Baker,39,Male,San Diego,2024-02-16,2256.53
+2071,Jordan Henderson,29,Female,Houston,2023-10-28,4191.44
+2072,Whitney Peters,69,Female,Philadelphia,2023-12-28,5088.45
+2073,Brittney Phillips,56,Female,Dallas,2023-07-27,6940.11
+2074,Lauren Daniels,51,Male,Los Angeles,2022-01-21,4999.76
+2075,Amy Silva,64,Female,San Diego,2023-05-10,6188.79
+2076,Sarah Moore,62,Female,Austin,2023-05-08,5008.39
+2077,Angela Lopez,46,Male,Los Angeles,2024-10-02,7003.38
+2078,Megan Young,32,Female,Jacksonville,2023-08-26,3885.74
+2079,Steve Sanchez,37,Female,San Diego,2023-05-14,6468.15
+2080,Lisa Barnes,40,Female,Jacksonville,2024-12-23,8391.27
+2081,Kelly Donovan,40,Female,Phoenix,2023-11-09,7874.92
+2082,Mike Allen,34,Male,Los Angeles,2023-09-20,4092.22
+2083,Michael Evans,38,Male,Jacksonville,2023-01-30,2018.72
+2084,Paul Jones,30,Male,Jacksonville,2023-01-15,4105.9
+2085,Zachary Ferrell,35,Female,Los Angeles,2024-09-18,3737.51
+2086,Daniel Baker,36,Male,Philadelphia,2023-02-02,3040.78
+2087,Shirley Suarez,37,Male,Jacksonville,2023-01-03,5296.26
+2088,Christopher Bass,26,Female,New York,2024-12-29,4653.18
+2089,Lisa Archer,53,Female,Jacksonville,2022-04-22,4294.96
+2090,Aimee Montoya,58,Female,Los Angeles,2022-09-16,4413.81
+2091,Matthew Mcmillan,54,Female,San Diego,2022-01-26,5171.39
+2092,Brian Rodriguez,46,Female,Chicago,2024-09-07,4706.83
+2093,Denise Jacobs,34,Female,Los Angeles,2022-04-16,7084.58
+2094,Christina Walters,43,Female,Los Angeles,2022-05-14,6156.44
+2095,John Whitehead,27,Male,San Jose,2022-04-20,8577.66
+2096,Anna Henderson,23,Male,Los Angeles,2023-09-15,7116.23
+2097,Aaron Wise,56,Male,Dallas,2024-05-02,6414.63
+2098,Deborah Figueroa,46,Female,Phoenix,2024-02-19,7419.6
+2099,Jessica Smith,37,Male,San Jose,2024-05-28,2382.21
+2100,Stephen Mckee,66,Male,Austin,2022-07-23,7417.17
+2101,Sandra Aguilar,34,Male,Chicago,2023-03-09,4403.41
+2102,Cameron Parker,29,Male,Chicago,2023-05-07,3510.41
+2103,Rebecca Valencia,44,Female,Jacksonville,2022-01-06,3643.94
+2104,Christine Wright,36,Male,Houston,2024-08-20,4121.98
+2105,Richard Henson,63,Female,Jacksonville,2023-08-14,5767.41
+2106,Marc Moore,22,Male,Phoenix,2024-07-18,6336.51
+2107,Sharon Cherry,45,Male,Dallas,2023-02-10,2713.07
+2108,Sierra Johnson,59,Male,Phoenix,2023-04-06,6177.97
+2109,Evelyn Galvan,22,Male,Chicago,2022-10-19,8092.03
+2110,Sharon Cochran,56,Female,San Diego,2023-09-22,4898.12
+2111,Richard Rodriguez,47,Female,Jacksonville,2022-09-12,6035.69
+2112,Shannon Walker,35,Female,San Diego,2024-04-04,5061.36
+2113,Julia Torres,56,Male,San Antonio,2022-06-14,10230.09
+2114,Crystal Johnson,56,Female,New York,2023-10-23,5837.89
+2115,Garrett Lin,32,Male,Austin,2022-07-07,5675.91
+2116,Diana May,54,Male,Chicago,2023-07-06,5737.12
+2117,William Herrera,51,Female,Phoenix,2024-08-21,8429.63
+2118,Ashley Waller,55,Female,Austin,2023-01-07,10230.23
+2119,Victor Baker,23,Female,Philadelphia,2024-10-04,3267.81
+2120,Jeffrey Chandler,39,Female,Austin,2024-04-16,5261.03
+2121,Larry Dixon,28,Female,San Antonio,2022-08-03,2993.31
+2122,Kenneth Scott,36,Female,Dallas,2024-10-11,6676.46
+2123,April Frost,47,Male,Philadelphia,2022-03-17,6379.96
+2124,Michelle Harmon,38,Male,San Antonio,2023-06-01,6161.6
+2125,Helen Jones,70,Male,Austin,2024-11-19,5139.68
+2126,Erin Edwards,44,Male,Houston,2024-08-04,7787.0
+2127,Michelle Evans,41,Female,Austin,2024-11-27,8265.22
+2128,Jason Powell,66,Male,Houston,2024-06-24,8040.68
+2129,Cameron Fisher,53,Male,Phoenix,2023-07-01,2647.17
+2130,Megan Orr,62,Female,Los Angeles,2024-06-16,8209.39
+2131,Elizabeth Kelley,58,Male,Jacksonville,2022-03-01,7977.54
+2132,Dustin Jordan,37,Male,Dallas,2022-11-21,10530.76
+2133,Mary Marshall,23,Male,Los Angeles,2024-04-15,6044.83
+2134,Daniel Kennedy,25,Male,San Diego,2024-08-03,4707.89
+2135,Rebecca Jackson,50,Female,San Antonio,2023-08-21,6166.37
+2136,Jose Schultz,48,Male,San Diego,2024-09-15,7459.96
+2137,Robert Potter,42,Male,San Jose,2022-10-24,7375.67
+2138,Courtney Gonzalez,65,Male,Los Angeles,2024-11-06,4785.17
+2139,David Alvarez,67,Female,Philadelphia,2023-07-20,12265.9
+2140,Angel Perry,35,Male,Phoenix,2024-11-05,7434.93
+2141,Cheyenne Horton,55,Female,Chicago,2023-09-04,8693.67
+2142,David Douglas Jr.,52,Female,Philadelphia,2024-07-03,10699.85
+2143,Patricia Rodriguez,53,Female,San Diego,2023-11-12,7909.72
+2144,Christopher Rubio,30,Male,San Jose,2023-10-22,6093.52
+2145,Amber Wright,32,Female,New York,2024-02-24,2706.79
+2146,Joyce Solis,65,Female,Jacksonville,2023-10-14,6469.74
+2147,Victoria Larson,42,Male,San Diego,2024-02-20,7267.73
+2148,Stephanie Salazar,26,Female,Los Angeles,2022-03-17,6651.64
+2149,Kathy Rivas,24,Female,New York,2024-06-20,13959.45
+2150,Stephanie Manning,44,Male,Los Angeles,2022-10-23,7351.04
+2151,David Wright,68,Female,Philadelphia,2024-08-19,9683.92
+2152,Pamela Boyd,59,Male,Philadelphia,2024-03-25,5049.01
+2153,Denise Jones,42,Female,Austin,2024-12-28,5239.05
+2154,Devon Flores,52,Male,San Jose,2024-09-26,5250.73
+2155,Brenda Hall,33,Female,Houston,2022-05-21,9795.61
+2156,Michelle Brown,45,Male,Austin,2022-07-05,7067.07
+2157,Joshua Perry,46,Male,Jacksonville,2022-07-25,10466.0
+2158,Jason Stein,19,Male,Philadelphia,2023-09-06,3988.66
+2159,Melissa Gates,36,Female,Philadelphia,2022-04-25,7992.79
+2160,Jamie Smith,27,Male,Dallas,2024-06-01,7088.94
+2161,Paul Castaneda,54,Male,Chicago,2024-04-23,4592.57
+2162,Jennifer Adkins,23,Female,San Jose,2022-12-25,8964.24
+2163,Lindsey Walker,49,Male,Houston,2023-05-09,6418.79
+2164,Jeffrey Johnson,58,Female,San Diego,2024-08-02,3124.39
+2165,Michael Powell,60,Male,San Diego,2023-06-07,4828.28
+2166,John Anderson,61,Male,Los Angeles,2023-08-13,5207.38
+2167,Alyssa Long,40,Female,Austin,2024-06-23,2860.03
+2168,Alyssa Day,62,Female,San Diego,2024-05-18,5089.72
+2169,Joel Williams,30,Female,San Diego,2023-09-11,5550.02
+2170,Daniel Murphy,33,Female,San Jose,2022-08-07,8361.07
+2171,Jamie Walton,54,Female,Jacksonville,2024-01-06,8864.25
+2172,Darlene Miller,19,Female,Phoenix,2023-08-28,7860.67
+2173,Joshua Cooke,54,Male,San Jose,2022-01-17,11163.29
+2174,Matthew Harrington,36,Male,San Jose,2024-10-14,3893.03
+2175,Nicole Herring,32,Male,San Jose,2023-12-23,5499.59
+2176,Alex Hernandez,61,Male,Austin,2023-05-29,4688.92
+2177,Michael Elliott,58,Male,Phoenix,2022-07-18,4018.79
+2178,Michael Wang,20,Female,Jacksonville,2024-06-21,7259.4
+2179,Lawrence Adkins,23,Female,Philadelphia,2022-09-27,4315.96
+2180,Robert Oconnell,29,Male,Chicago,2024-04-30,7644.11
+2181,Alexander Collins,51,Female,Chicago,2024-01-20,11074.59
+2182,Tina Sanders,70,Female,Phoenix,2023-06-11,4950.36
+2183,Angela Vaughn,69,Male,San Diego,2023-11-25,6079.04
+2184,Ashley Barton,27,Male,Austin,2022-06-04,4442.59
+2185,Lindsay Martinez,69,Female,Los Angeles,2024-03-24,6276.9
+2186,Dr. Hannah Patterson,18,Female,Dallas,2024-03-19,4065.6
+2187,Jonathan Peterson,47,Female,Austin,2022-09-11,5852.02
+2188,Samantha Garcia,55,Female,Austin,2023-06-21,6734.0
+2189,Madison Poole,24,Male,San Diego,2024-01-31,5522.08
+2190,Jessica Gross,57,Female,San Jose,2022-02-21,6444.48
+2191,Debra Morton,59,Male,Austin,2023-03-30,6457.29
+2192,Karen Graham,62,Female,Austin,2024-08-08,5963.87
+2193,Debra Christian,25,Male,New York,2024-04-16,6515.22
+2194,Angelica Keith,37,Female,Los Angeles,2022-03-18,4249.55
+2195,John Bishop,33,Male,San Antonio,2022-07-19,6013.99
+2196,Allen Rosales,41,Female,San Jose,2024-07-18,4152.88
+2197,Daniel Salinas,44,Male,San Diego,2022-11-13,2828.36
+2198,Spencer Haynes,35,Male,Jacksonville,2024-04-15,1867.21
+2199,Adam Vaughan,31,Female,San Diego,2024-01-29,9943.0
+2200,Nathan Freeman,41,Male,Austin,2023-04-29,5677.66
+2201,Melissa Brewer,52,Female,New York,2024-01-23,8707.94
+2202,Ricky Davis II,35,Male,Los Angeles,2024-03-26,3501.99
+2203,Elizabeth Perkins,23,Male,Austin,2024-07-20,7102.78
+2204,Joseph Coleman,21,Female,Houston,2022-02-13,4293.02
+2205,Erin Warner,68,Male,Los Angeles,2022-09-15,5569.49
+2206,David Martinez,55,Male,Houston,2023-03-01,5022.7
+2207,Bryan Herrera,67,Male,San Jose,2023-11-04,3377.33
+2208,Cathy Robinson,35,Male,Chicago,2022-01-06,7169.95
+2209,Dr. William Warren,69,Male,Los Angeles,2023-05-29,4188.77
+2210,Brian Lee,26,Male,Philadelphia,2022-02-22,8595.88
+2211,Christopher Smith,55,Female,New York,2023-05-03,6769.06
+2212,Denise Mccann,34,Male,Chicago,2022-12-23,3690.81
+2213,Melissa Martinez,51,Male,Jacksonville,2024-05-12,6169.72
+2214,Katherine Salas,48,Female,Philadelphia,2022-05-11,4388.02
+2215,Julie Alexander,55,Male,San Diego,2024-11-17,7072.54
+2216,Anthony Everett,32,Male,Jacksonville,2024-10-28,6523.92
+2217,Rodney Morales,37,Female,Austin,2024-12-03,8047.85
+2218,Mark Brown,21,Female,San Antonio,2022-03-05,5331.98
+2219,Justin Torres,61,Male,San Diego,2024-05-23,8853.25
+2220,Bailey Duran DDS,22,Male,Philadelphia,2024-06-27,3004.23
+2221,Courtney Mills,22,Male,Phoenix,2022-10-31,3939.13
+2222,Jeremy Dalton,42,Female,San Diego,2023-10-28,5278.55
+2223,Elizabeth Oliver DDS,56,Female,Los Angeles,2024-11-01,4577.02
+2224,Theresa Clark,59,Male,San Antonio,2022-08-23,2700.09
+2225,Matthew Moore,32,Female,Philadelphia,2024-07-13,4581.63
+2226,Benjamin Smith,43,Female,Jacksonville,2024-07-17,5361.35
+2227,Kirk Carter,38,Female,Philadelphia,2022-07-14,4637.15
+2228,Michael Warner,41,Male,Austin,2023-06-07,8200.6
+2229,Michael Bradshaw,22,Male,Los Angeles,2024-08-29,8750.28
+2230,Lori Guerrero,45,Male,Jacksonville,2022-07-10,9162.97
+2231,Jessica Stephens,69,Male,Dallas,2024-02-03,9889.19
+2232,Susan Serrano,55,Female,Austin,2022-05-03,7639.37
+2233,Christopher Parker,44,Female,Austin,2022-09-08,10785.28
+2234,Laura Roberts,64,Male,Phoenix,2024-05-16,8494.7
+2235,Michael Lyons,40,Male,San Jose,2023-10-02,6940.33
+2236,Kathryn Snyder,31,Male,Austin,2024-11-05,8101.62
+2237,Andrew Reynolds,32,Male,Philadelphia,2024-09-14,5928.51
+2238,David Davis,25,Female,San Jose,2024-01-23,9972.44
+2239,Sara Johnston,69,Female,Dallas,2023-04-09,10303.09
+2240,Yvonne Chambers,56,Female,New York,2022-02-23,3829.91
+2241,Andrew Avila,35,Female,Philadelphia,2023-01-05,7259.87
+2242,Matthew Moon,18,Male,Chicago,2023-12-20,6958.8
+2243,Kevin Walters,22,Male,Jacksonville,2024-03-31,6559.13
+2244,Brandon Bailey MD,23,Male,San Antonio,2022-03-04,5714.8
+2245,Shannon Rivera,47,Female,Chicago,2024-05-09,7041.43
+2246,Donna Landry,37,Female,San Jose,2024-01-28,3001.43
+2247,Krista Gibson,21,Male,Chicago,2022-06-23,2590.43
+2248,Frank Cordova,61,Male,Phoenix,2022-04-12,10925.12
+2249,Jose Travis,60,Female,San Diego,2024-06-26,4469.18
+2250,Kimberly Gutierrez,44,Female,Houston,2024-06-24,9232.84
+2251,Isaiah Avila,25,Female,San Antonio,2024-11-15,4662.88
+2252,Olivia Harris,36,Female,Dallas,2022-08-16,7498.71
+2253,Tanya Kim,20,Male,San Antonio,2023-09-24,7136.74
+2254,Barbara Dudley,18,Male,Phoenix,2022-04-23,5772.21
+2255,Cynthia Moore,67,Male,Phoenix,2023-03-09,3713.29
+2256,Kristen Davis,38,Male,New York,2023-08-16,8847.78
+2257,Susan Murray MD,65,Female,Chicago,2024-10-15,4020.11
+2258,Kathleen Moran,42,Male,Dallas,2022-09-22,7016.98
+2259,Denise Davenport,22,Female,Jacksonville,2023-12-27,7415.63
+2260,Mrs. Kristen Reyes,45,Male,San Diego,2022-03-28,7398.03
+2261,Katie Suarez,38,Female,San Jose,2022-06-09,2176.57
+2262,Desiree Tyler,63,Female,Phoenix,2024-04-08,8011.09
+2263,Timothy Romero,43,Male,Philadelphia,2022-08-24,7914.94
+2264,Diane Evans,69,Female,Jacksonville,2022-12-18,5275.16
+2265,Yvonne Burns,23,Female,Los Angeles,2024-01-12,4902.35
+2266,Joshua Reed,45,Female,Dallas,2023-05-14,5407.78
+2267,Kimberly Gibson,43,Female,Jacksonville,2022-06-11,4675.33
+2268,Colin Terry,32,Female,Chicago,2023-11-27,3921.67
+2269,Cynthia Rowe,50,Male,Dallas,2022-06-06,6893.71
+2270,Patrick Thornton,30,Female,Philadelphia,2024-11-10,5804.84
+2271,Jasmin Alvarado,33,Male,Chicago,2022-10-30,5051.71
+2272,Veronica Simpson,30,Male,San Jose,2023-06-09,7112.41
+2273,Jonathan Lawrence,66,Male,Chicago,2022-11-10,5957.69
+2274,Shelly Alexander,47,Female,Austin,2024-10-08,2398.3
+2275,Joyce Bowen,58,Female,Chicago,2023-10-24,8091.06
+2276,Matthew Moore,22,Female,San Diego,2024-06-19,4444.11
+2277,Wayne Morgan,68,Female,San Jose,2023-09-13,6019.08
+2278,Marie Christian,40,Male,Phoenix,2022-04-26,4064.86
+2279,Shannon James,46,Male,New York,2024-08-03,6060.09
+2280,Nathan Malone,36,Male,Austin,2024-01-26,3910.2
+2281,Amanda Jones,57,Female,San Diego,2022-07-04,5777.02
+2282,Tammie Bright,46,Male,Philadelphia,2022-03-26,9315.65
+2283,Jessica Garcia,50,Male,New York,2024-09-01,6113.65
+2284,Shelia Wallace,24,Female,Jacksonville,2024-07-11,3059.23
+2285,Stephanie Williams,50,Male,New York,2022-06-22,2462.46
+2286,Elaine Brooks,63,Female,San Diego,2023-05-23,5224.0
+2287,Joseph Knight,51,Male,Philadelphia,2024-12-09,9864.57
+2288,Carolyn Miller,36,Female,San Antonio,2024-02-03,9695.88
+2289,Lisa Allen,61,Male,Austin,2023-11-24,3774.59
+2290,Briana Murray,22,Female,Los Angeles,2023-11-17,5429.17
+2291,David Smith,36,Female,Jacksonville,2024-03-02,8381.31
+2292,Stephanie Byrd,39,Male,San Jose,2022-11-04,6502.19
+2293,Jeremy Reed,40,Female,Austin,2022-10-17,10683.73
+2294,Margaret Coleman,26,Male,Phoenix,2024-03-13,5732.33
+2295,Ryan Gonzalez,59,Female,Chicago,2024-02-11,2412.81
+2296,John Young,23,Female,Dallas,2024-12-14,8038.11
+2297,Laura Haney,19,Female,Phoenix,2024-01-12,1926.23
+2298,William Barrett,31,Female,San Diego,2023-01-05,5124.95
+2299,Keith Jennings,32,Male,Chicago,2023-01-29,2538.3
+2300,Amber Obrien,36,Male,Dallas,2022-06-08,2557.18
+2301,Tanner Mitchell DDS,20,Female,San Jose,2024-12-14,6236.07
+2302,Heather Fields,56,Female,Chicago,2022-09-26,3238.4
+2303,Megan Le,29,Male,Jacksonville,2022-11-29,6882.73
+2304,Sara Fuller,20,Female,Philadelphia,2024-06-15,8146.38
+2305,Maria Parker,46,Female,Jacksonville,2023-05-02,6833.24
+2306,Kevin Oconnor,32,Male,Phoenix,2024-07-08,7793.21
+2307,Edward Burgess,30,Female,Austin,2024-08-18,5277.8
+2308,Carlos Ryan,47,Female,San Antonio,2024-06-21,7308.6
+2309,Kiara Mcintyre,51,Female,Chicago,2024-10-26,6337.0
+2310,Dawn Summers,69,Male,Phoenix,2023-02-13,6906.01
+2311,Dr. Paul Morgan,59,Female,Philadelphia,2022-04-17,5489.94
+2312,Victor Taylor,63,Male,Phoenix,2022-07-30,4747.85
+2313,Shannon Ramsey,66,Male,Phoenix,2022-06-21,4171.42
+2314,Tracy Ballard,50,Male,San Antonio,2024-07-09,3966.25
+2315,Richard Smith,32,Female,Philadelphia,2022-07-07,4686.31
+2316,Jordan Chambers,44,Male,San Antonio,2022-02-24,2385.9
+2317,Lauren Carson,41,Male,San Antonio,2024-10-25,3648.54
+2318,Ashley Hall,41,Male,New York,2022-06-17,6645.23
+2319,Stephen Hoffman,24,Female,Chicago,2023-10-15,4792.71
+2320,Connie Brown,20,Female,San Diego,2022-10-09,6299.33
+2321,Susan Turner,66,Female,San Diego,2022-10-12,6773.95
+2322,Charles Shah,23,Male,Phoenix,2022-01-11,7716.94
+2323,Johnathan Davis,27,Female,Los Angeles,2023-03-18,5745.58
+2324,Brandy Chavez,33,Female,Los Angeles,2023-08-14,2338.06
+2325,Natalie Bautista,33,Female,Austin,2022-04-08,5035.64
+2326,Patrick Moore,22,Male,San Diego,2024-07-25,5969.3
+2327,Brett Burns,58,Male,Jacksonville,2022-02-03,4379.56
+2328,Trevor Johnson,36,Female,New York,2022-10-22,7342.76
+2329,Jeremy Sampson,33,Female,Chicago,2023-12-24,2434.99
+2330,Ariana Jennings,51,Female,Los Angeles,2022-06-25,6303.58
+2331,Vanessa Howard,52,Male,San Antonio,2024-12-13,7570.35
+2332,Colton Martinez,20,Female,Philadelphia,2024-08-20,7826.68
+2333,Jordan Bates,65,Male,Philadelphia,2023-06-04,5295.32
+2334,Linda Smith,40,Male,Jacksonville,2022-05-19,9126.35
+2335,Dana Martinez,67,Female,Chicago,2022-08-01,6320.09
+2336,Andrea Hubbard,40,Female,Austin,2022-04-01,11659.52
+2337,Daniel Kane,67,Female,Jacksonville,2022-12-25,4392.12
+2338,Charles Lester,58,Male,Chicago,2024-09-07,4896.56
+2339,Scott Thomas,63,Female,New York,2022-05-10,5153.04
+2340,David Thompson,30,Male,Houston,2023-08-24,4199.42
+2341,Allison Smith,38,Female,Dallas,2022-03-27,5179.82
+2342,Cynthia Morris,70,Female,Phoenix,2024-03-26,6463.36
+2343,Anthony Harmon,66,Male,Phoenix,2022-03-16,7766.91
+2344,Nichole Alvarez,67,Male,Austin,2024-01-02,4254.18
+2345,Kayla Rodriguez,35,Male,Philadelphia,2023-11-11,8537.1
+2346,Theresa Williams,43,Female,San Antonio,2024-06-13,6065.36
+2347,Sharon Boyd,29,Female,Jacksonville,2023-11-26,4374.94
+2348,Victor Brown,41,Female,Los Angeles,2024-10-15,5857.13
+2349,James Parks,23,Female,San Jose,2024-05-19,4662.09
+2350,Theodore Jones Jr.,52,Female,Philadelphia,2023-01-05,7341.09
+2351,Ana Hill,23,Female,Austin,2022-07-30,5173.71
+2352,Kimberly Nguyen,37,Female,San Jose,2023-08-29,7309.45
+2353,Kerry Chavez DDS,28,Female,Philadelphia,2024-05-22,3944.84
+2354,Michael Farrell,20,Female,San Jose,2024-07-04,3729.6
+2355,Patricia Le,35,Male,Los Angeles,2024-06-09,5690.72
+2356,Jesse Perez,41,Male,New York,2024-04-11,3089.29
+2357,Jesse Perry,56,Female,New York,2022-10-20,5443.65
+2358,Jeffery Ortega,22,Male,Austin,2022-09-16,3486.33
+2359,Christian Leblanc,41,Female,San Jose,2024-01-21,9070.59
+2360,Ronald Davis,56,Male,Austin,2022-03-08,5529.17
+2361,Parker Cain,41,Female,San Diego,2024-07-10,4592.58
+2362,Laurie Hoffman,54,Male,Dallas,2022-06-07,7905.41
+2363,Bryan Gomez,43,Female,Austin,2024-01-22,3794.37
+2364,Nicole Parrish,33,Male,New York,2023-07-25,6048.98
+2365,Tracy Burke,49,Female,Dallas,2023-01-17,10415.99
+2366,Kenneth Lewis,34,Female,Jacksonville,2022-08-30,3949.02
+2367,Courtney Rodriguez,31,Female,Jacksonville,2024-07-02,4845.7
+2368,Holly Farmer,30,Male,Chicago,2024-10-02,4280.61
+2369,Renee Bruce,46,Male,Jacksonville,2022-06-01,4357.66
+2370,Sabrina Austin,23,Female,Austin,2024-06-30,3873.48
+2371,Allison Hickman,63,Male,Dallas,2023-12-13,4193.94
+2372,Debra White,37,Male,Jacksonville,2023-08-18,6596.33
+2373,Ellen Morgan,68,Female,Dallas,2022-12-23,6617.62
+2374,Sergio Knight,25,Male,Chicago,2023-04-05,5270.58
+2375,Charles Schultz,68,Female,New York,2023-04-30,5812.54
+2376,Paul Lewis,53,Female,San Diego,2024-01-10,3723.7
+2377,Glen Wood,57,Male,Los Angeles,2022-09-23,7205.85
+2378,Paula Bradley,43,Female,Dallas,2023-09-26,14082.09
+2379,Anthony Moore,67,Female,San Jose,2024-04-21,6534.6
+2380,Megan Nelson,26,Female,Austin,2022-06-01,8352.6
+2381,Karla Ramos,46,Female,Austin,2022-06-01,6058.28
+2382,Paul Wilson,40,Male,Dallas,2024-11-25,5165.98
+2383,Douglas Gregory,67,Male,San Antonio,2023-01-08,7375.05
+2384,Mr. Andrew Foster,21,Male,Dallas,2024-10-26,7017.94
+2385,Aimee Turner,37,Male,Chicago,2022-11-10,5493.37
+2386,Chad Scott,63,Male,Philadelphia,2023-10-23,3151.47
+2387,Adam Burgess,36,Male,Phoenix,2024-11-28,7655.32
+2388,James Padilla,58,Female,Chicago,2023-02-07,5956.97
+2389,Sandra Drake,57,Male,Dallas,2023-09-13,6031.45
+2390,Scott Williams,55,Male,Chicago,2022-12-12,7140.8
+2391,Thomas Atkins,54,Male,New York,2023-11-23,6404.78
+2392,Laura Mckinney,20,Female,Austin,2022-06-16,6252.04
+2393,Brian Smith,67,Female,San Jose,2023-03-08,7520.77
+2394,Robert Montgomery,49,Female,Austin,2022-03-04,8808.41
+2395,Tamara Davis,48,Male,Austin,2023-09-11,3671.3
+2396,Dana Chapman,37,Female,Los Angeles,2024-04-11,3171.43
+2397,Jennifer Collins,28,Female,San Antonio,2022-05-03,6197.6
+2398,Gary Jackson,47,Male,Philadelphia,2024-09-18,4888.85
+2399,Ashley Hicks,38,Female,Jacksonville,2022-10-22,6658.79
+2400,Hannah Luna,43,Male,Philadelphia,2023-12-09,9865.52
+2401,Robin Young,53,Male,Philadelphia,2024-11-20,7082.59
+2402,Craig Morrison,47,Male,Phoenix,2023-05-11,5306.93
+2403,Mary Thompson,33,Male,Los Angeles,2024-07-09,2976.47
+2404,Kathleen Webster,36,Female,San Jose,2022-04-14,5565.48
+2405,Joann Glass,33,Male,Philadelphia,2024-05-06,8524.94
+2406,Madison Weber,30,Male,San Diego,2023-10-03,7385.17
+2407,Lori Hernandez,47,Female,Phoenix,2024-11-20,6494.18
+2408,Jeremy Turner,19,Male,San Antonio,2024-10-15,6620.01
+2409,Anthony Romero,47,Male,Houston,2024-11-01,2938.49
+2410,Jesse Brown,21,Male,Phoenix,2023-12-24,4193.4
+2411,Angela Lin,56,Female,Phoenix,2024-10-10,6847.47
+2412,Lisa Hunter,24,Female,Chicago,2022-01-17,5384.71
+2413,Julian Conner,64,Female,San Antonio,2023-06-26,7184.33
+2414,Joanna Pacheco,20,Female,New York,2024-01-20,3155.11
+2415,Erica Alvarez,41,Female,Los Angeles,2023-02-03,5080.84
+2416,Antonio Garcia,50,Female,Dallas,2024-03-02,5540.11
+2417,Gwendolyn Klein,70,Male,Chicago,2023-07-27,6990.05
+2418,Carrie Wright,43,Female,Philadelphia,2022-07-18,5171.04
+2419,Jeffrey Mills,66,Male,Houston,2024-01-19,6882.2
+2420,Jake Campbell,43,Male,New York,2024-11-08,7516.64
+2421,George Harper,26,Female,San Diego,2022-03-21,3813.12
+2422,Maria Jones,47,Male,San Jose,2024-11-29,5680.77
+2423,Michael Mitchell,26,Female,San Jose,2024-11-21,6340.64
+2424,Mary Escobar,28,Female,San Jose,2023-10-15,8328.57
+2425,Felicia Aguilar,55,Female,Dallas,2023-09-05,4539.48
+2426,Gregory Ponce,52,Female,Jacksonville,2024-11-09,3532.97
+2427,Jenna Larson,48,Male,Philadelphia,2023-09-06,7263.47
+2428,Emily Bennett,61,Male,San Antonio,2023-11-10,4831.75
+2429,Robin Santiago,68,Male,San Jose,2023-09-23,5119.58
+2430,Nancy Jennings,34,Male,Jacksonville,2024-08-29,8792.97
+2431,Maria Henderson,55,Female,Chicago,2022-04-16,5408.64
+2432,Jack White,58,Female,Chicago,2024-12-09,6516.15
+2433,Travis Tucker,20,Male,Houston,2023-05-12,6017.04
+2434,Chad Jones,46,Female,San Antonio,2022-02-08,9140.31
+2435,Ashley Wise,44,Male,San Antonio,2022-11-07,5632.74
+2436,Sophia Johnson,67,Female,Jacksonville,2024-10-24,6438.69
+2437,Ralph Anderson,63,Male,Dallas,2022-05-08,5631.89
+2438,Christopher Guerra,53,Female,Austin,2023-03-01,5239.35
+2439,Rhonda Martin,51,Female,Philadelphia,2024-09-06,8217.5
+2440,Jason Rhodes,47,Female,Dallas,2022-12-21,1779.62
+2441,Jeremy Mitchell,61,Female,San Jose,2023-12-27,4734.02
+2442,Joann Ferguson,30,Male,Phoenix,2024-09-18,5640.83
+2443,Robert Harrison,32,Female,Phoenix,2023-09-04,7910.09
+2444,Holly Valentine,62,Female,Philadelphia,2023-03-01,4406.98
+2445,Mrs. Diane Reyes,40,Female,Phoenix,2024-09-09,4858.95
+2446,Tracy Montoya,54,Female,San Antonio,2022-09-07,3229.71
+2447,Brenda Wright,67,Male,Phoenix,2023-12-08,8154.74
+2448,Shelly Spencer,36,Male,Philadelphia,2022-03-28,3086.43
+2449,Ryan Rosales,59,Female,Jacksonville,2024-06-24,6757.61
+2450,Phillip Nelson,31,Male,Dallas,2024-09-08,8267.54
+2451,Brittany Kim,53,Female,Chicago,2023-07-10,7898.54
+2452,Courtney Hayes,57,Male,Houston,2022-08-12,5379.56
+2453,Alexander Brown,60,Male,Austin,2022-04-14,5622.75
+2454,Cynthia Vang,21,Male,San Antonio,2023-04-22,3461.75
+2455,Alfred Galvan,63,Female,Los Angeles,2023-11-08,6471.04
+2456,Marie Moody,18,Male,San Antonio,2022-10-09,9161.38
+2457,Dustin Gallegos,48,Male,Phoenix,2024-09-01,7097.24
+2458,Brenda Thornton,36,Male,Los Angeles,2023-10-20,6479.99
+2459,Aaron Miller,52,Male,Chicago,2023-04-21,8853.12
+2460,Ruben Dunn,29,Male,San Antonio,2024-05-05,10738.58
+2461,Kelsey Rodriguez,29,Female,New York,2024-10-11,7199.5
+2462,Eric Williams,37,Male,Philadelphia,2022-01-19,3593.93
+2463,Riley Bryant,47,Female,Chicago,2023-08-06,5066.44
+2464,Taylor Carlson,47,Female,Houston,2024-10-29,5654.9
+2465,Jose Allen,39,Male,Jacksonville,2022-08-19,6927.02
+2466,Jeffrey Mendez,59,Female,Jacksonville,2024-07-28,5121.83
+2467,Jason Beck,18,Female,Phoenix,2023-01-17,2847.36
+2468,William Jones,29,Female,San Antonio,2023-01-31,6526.77
+2469,Katie Mcneil,38,Male,San Antonio,2024-11-21,7517.62
+2470,Jeanette Harrison,29,Male,San Diego,2022-07-15,6036.21
+2471,Veronica King,33,Male,Phoenix,2023-10-25,7400.62
+2472,Richard Cooper,33,Female,Phoenix,2024-02-25,8847.45
+2473,Lori Ingram,37,Male,Phoenix,2023-11-07,6118.5
+2474,Evelyn Williams,62,Male,New York,2024-01-07,8176.65
+2475,Robin Thompson,47,Female,Chicago,2022-08-31,8059.76
+2476,Julie Dominguez,61,Female,Jacksonville,2024-04-10,5784.46
+2477,Robin Brown,58,Female,Philadelphia,2022-08-29,5621.9
+2478,Judith Carter,32,Male,San Diego,2023-03-29,6336.48
+2479,Curtis Williams,47,Female,San Antonio,2022-11-10,3381.83
+2480,Kaylee Hays,66,Male,Houston,2024-08-22,10728.03
+2481,Dawn Mullins,51,Female,Dallas,2022-06-17,6626.77
+2482,Howard Norman,22,Male,New York,2024-01-11,5888.84
+2483,Evelyn Martinez,30,Male,Chicago,2024-11-01,7265.25
+2484,Steve Paul,51,Female,Los Angeles,2023-11-03,3085.0
+2485,Jasmine Beltran,63,Female,Los Angeles,2023-02-25,5714.03
+2486,Jonathan Glass MD,46,Male,San Diego,2024-11-11,8035.21
+2487,Monica Miller,50,Female,San Diego,2022-09-28,7382.15
+2488,Samantha Gardner,53,Female,Austin,2022-04-29,3724.84
+2489,Bobby Guerrero,64,Male,San Antonio,2023-09-24,8718.9
+2490,Lance Simmons,70,Male,Jacksonville,2023-06-06,4849.09
+2491,Heather Williams,55,Male,New York,2023-03-23,10715.37
+2492,Heather Bolton,40,Male,Dallas,2024-05-17,6687.43
+2493,William Gould,22,Female,New York,2022-05-04,4096.65
+2494,Mark Cox,44,Male,Chicago,2023-08-11,5610.47
+2495,Meghan Cisneros,41,Female,San Diego,2024-05-10,3059.23
+2496,Lawrence Harrington,42,Male,Austin,2024-02-13,6633.79
+2497,Austin Osborne,59,Female,Los Angeles,2022-09-30,5495.15
+2498,James Bradley,52,Female,Dallas,2023-01-01,2872.64
+2499,Meghan Rush,64,Male,New York,2022-09-18,9343.8
+2500,Phillip Berry,37,Female,Austin,2022-02-16,8689.37
+2501,Jennifer Banks,52,Female,Houston,2024-05-18,9093.93
+2502,Brian Fitzgerald,47,Female,Chicago,2023-05-22,6057.97
+2503,Mr. Justin Green III,30,Male,New York,2023-07-19,6318.09
+2504,Zachary Mitchell,57,Male,Houston,2024-05-08,1593.23
+2505,Katherine Martinez,22,Male,San Jose,2023-02-27,5049.12
+2506,Jodi Roach,46,Male,Houston,2022-03-10,5165.86
+2507,Brandon Fleming,43,Female,Houston,2022-04-01,6123.86
+2508,Emma Reed,66,Male,Chicago,2023-03-21,7181.28
+2509,Joshua Vance,36,Male,Jacksonville,2024-10-28,6946.38
+2510,Michelle Ho,54,Female,Houston,2023-10-16,7532.97
+2511,Rebecca Hicks,27,Male,San Antonio,2023-09-11,8242.68
+2512,Curtis Taylor,35,Male,Dallas,2023-09-08,4152.1
+2513,Allison Spencer,58,Female,Dallas,2022-12-25,4501.57
+2514,Robert Arnold,21,Female,Austin,2024-10-12,5648.01
+2515,Angelica Parker,68,Female,Jacksonville,2024-02-20,5374.79
+2516,Dr. Kelly Hammond DVM,44,Male,Phoenix,2024-05-02,7881.92
+2517,William Day,29,Female,Houston,2024-02-10,10848.51
+2518,Michael Cooper,37,Male,San Diego,2023-04-07,6834.81
+2519,Penny Bowman,53,Female,San Antonio,2022-04-29,6567.53
+2520,Vincent Reynolds,26,Female,Houston,2024-12-21,9521.02
+2521,Amy Martinez,31,Female,Austin,2023-06-07,9028.69
+2522,Christopher Morris,46,Female,Los Angeles,2022-06-11,3171.45
+2523,Hannah Everett,21,Female,San Antonio,2023-01-26,7916.0
+2524,Sarah King,22,Male,San Jose,2022-03-22,7297.99
+2525,Krista Martinez,48,Male,Philadelphia,2023-03-21,4443.51
+2526,Joseph Shaw,18,Male,Houston,2023-09-13,9230.09
+2527,Todd Moore,65,Female,Houston,2022-08-29,7235.65
+2528,Michelle Jacobs,43,Male,Dallas,2023-02-23,8223.39
+2529,Kristy Bryan,67,Female,San Antonio,2023-10-21,3739.19
+2530,Angel May,52,Female,Phoenix,2024-08-12,6198.07
+2531,Marilyn Wang,41,Female,San Diego,2023-06-20,9216.79
+2532,Mark Jimenez,69,Female,Philadelphia,2022-07-21,10035.98
+2533,Donna Frye,41,Female,San Antonio,2023-02-21,5395.51
+2534,Dr. Michael Evans,54,Male,Jacksonville,2022-04-04,5485.8
+2535,Anthony Gonzales,19,Female,Dallas,2022-10-26,6818.17
+2536,Mr. Lawrence Edwards,36,Male,Houston,2024-05-05,4359.4
+2537,Morgan Valencia,32,Female,San Jose,2023-11-07,8007.06
+2538,Bianca Wood,49,Female,Phoenix,2023-05-19,4495.69
+2539,Emma Owens,64,Female,San Diego,2024-09-27,8821.98
+2540,David Davis,64,Female,Chicago,2022-12-11,6128.26
+2541,James Gilbert,64,Female,Chicago,2022-10-14,6176.87
+2542,Sean Moore,51,Male,Los Angeles,2022-05-01,7223.4
+2543,Kenneth Edwards,66,Male,San Antonio,2022-04-10,5327.96
+2544,Kathleen Robertson,58,Male,Los Angeles,2022-10-09,5027.76
+2545,Mr. Alexander Landry MD,18,Male,Dallas,2022-11-06,8024.39
+2546,Cindy Gomez,41,Male,San Jose,2024-07-22,7156.68
+2547,Johnny Khan,60,Female,New York,2024-09-16,6013.62
+2548,Julie Herrera,52,Female,New York,2022-01-14,8157.66
+2549,Jessica Khan,51,Female,Dallas,2022-02-04,4103.12
+2550,Pamela Diaz,19,Female,Chicago,2023-08-11,5284.07
+2551,Kelly Lee,24,Male,Houston,2022-08-08,4174.79
+2552,Angel Gordon,57,Female,Philadelphia,2023-01-29,3237.18
+2553,Diana Hays,68,Female,Los Angeles,2023-07-02,6824.87
+2554,Barbara Hester,43,Female,San Jose,2024-02-04,5227.35
+2555,Robert Morgan,62,Male,Phoenix,2023-05-14,9364.21
+2556,Nicole Gonzalez,59,Male,Los Angeles,2022-06-15,5242.48
+2557,Kathryn Williams,42,Female,Dallas,2024-04-10,2541.75
+2558,Gary Wells,21,Male,Jacksonville,2024-09-01,4239.87
+2559,Larry Robertson,23,Female,San Antonio,2022-12-17,6250.39
+2560,Louis Martin,54,Male,Dallas,2023-11-10,10107.63
+2561,Nancy Evans MD,32,Male,Jacksonville,2022-03-29,6006.11
+2562,Kim Erickson,35,Male,Los Angeles,2024-08-31,5652.97
+2563,Robert Richardson,52,Male,Chicago,2023-07-29,4362.58
+2564,Veronica Silva,19,Male,San Jose,2023-10-07,6740.15
+2565,Molly Watts,66,Female,Los Angeles,2022-10-23,7548.82
+2566,John Coffey,28,Male,San Jose,2023-09-05,7725.31
+2567,Paula Lane,61,Female,San Antonio,2024-03-07,5707.12
+2568,Lauren Jackson,68,Male,Dallas,2022-10-14,3572.28
+2569,Lisa Randall,21,Male,San Antonio,2023-12-10,6009.98
+2570,Michael Johnson,22,Female,San Jose,2023-04-21,6721.36
+2571,Ashley Smith,67,Female,New York,2024-03-23,8449.26
+2572,Christian Vaughn,68,Female,San Diego,2023-07-14,5548.3
+2573,Reginald Knapp,40,Female,San Antonio,2023-04-13,6881.95
+2574,Nancy Brown,61,Female,Los Angeles,2023-01-16,6736.17
+2575,Daniel Nguyen,69,Male,Jacksonville,2023-08-28,7031.43
+2576,Kelly Edwards,23,Female,Chicago,2022-05-31,6896.53
+2577,Thomas Peterson,63,Male,Jacksonville,2024-02-18,9958.36
+2578,Raymond Le,38,Female,Los Angeles,2024-03-08,4217.93
+2579,Melissa Bishop,18,Female,San Diego,2022-07-07,6102.71
+2580,David Grant,66,Female,Los Angeles,2024-01-08,8679.96
+2581,William Evans,23,Male,San Antonio,2022-09-29,6558.37
+2582,Daniel Bush,53,Female,Los Angeles,2024-07-08,6346.57
+2583,Gregory Peck,23,Female,Dallas,2022-02-23,6555.25
+2584,Denise Martinez,56,Female,San Antonio,2022-07-10,5199.3
+2585,Jamie Baird,36,Female,San Antonio,2022-01-26,6396.26
+2586,Tina Ballard,64,Male,San Jose,2022-06-23,7298.81
+2587,Dwayne Klein,28,Female,Chicago,2024-12-03,6955.59
+2588,Jeremy Scott,35,Female,Phoenix,2022-10-12,3397.01
+2589,Dale Ryan,27,Male,Chicago,2024-10-06,5906.09
+2590,Melissa Taylor,35,Female,Phoenix,2024-06-09,7611.8
+2591,Laurie Sanchez,68,Male,Philadelphia,2024-09-18,4187.78
+2592,Kiara Little,33,Female,San Jose,2023-05-31,7082.64
+2593,Jason Love,47,Male,Chicago,2023-02-05,9330.51
+2594,Randy Smith,18,Female,Philadelphia,2023-09-16,1844.84
+2595,Tanya Russell,69,Female,San Diego,2024-02-18,4485.87
+2596,Sherry Woods,45,Male,Phoenix,2023-11-17,5292.45
+2597,Victor Morris,56,Male,San Diego,2023-10-19,6415.66
+2598,Susan Davis,29,Female,Philadelphia,2023-10-06,4111.08
+2599,Kimberly Sharp,65,Female,San Jose,2023-08-20,7008.5
+2600,Susan Thompson,38,Female,Phoenix,2023-05-12,4923.83
+2601,Casey Gillespie,41,Male,San Jose,2024-03-15,5332.24
+2602,Jennifer Simpson DVM,55,Male,Austin,2023-02-14,3888.17
+2603,Tammy Mcdowell,64,Female,Jacksonville,2022-02-25,10522.2
+2604,Keith Rodriguez,46,Female,Jacksonville,2023-03-06,3499.88
+2605,Mrs. Virginia Daniels,70,Female,Austin,2022-05-22,10141.21
+2606,Todd Rosales MD,26,Female,Houston,2024-10-19,6024.85
+2607,Brian Martin,60,Male,Jacksonville,2023-06-02,7398.07
+2608,David Lopez,68,Female,Los Angeles,2024-05-16,5149.61
+2609,Rachel Bradley,56,Female,San Jose,2024-07-08,7451.66
+2610,Casey Chase,52,Female,Dallas,2024-03-31,6172.26
+2611,Samantha Robertson,68,Female,Jacksonville,2022-03-17,5333.39
+2612,Michael Lopez,24,Male,Austin,2022-06-24,4937.06
+2613,Franklin Wright,28,Male,San Jose,2023-12-29,6639.84
+2614,David Molina,66,Female,San Antonio,2024-03-29,3591.54
+2615,Elizabeth Sharp,18,Male,Phoenix,2022-08-05,2953.92
+2616,Matthew Schwartz,50,Male,San Diego,2023-03-31,4511.72
+2617,Bryan Parker,43,Female,Austin,2024-02-06,4062.83
+2618,Jonathan Jacobson,27,Female,New York,2024-10-21,8927.01
+2619,Emily Wilson,24,Female,San Antonio,2024-09-15,3917.18
+2620,Elizabeth Mendez,25,Male,Philadelphia,2022-06-25,7748.79
+2621,Casey Hernandez,39,Female,Houston,2023-10-01,7242.42
+2622,Lisa Perry,48,Female,San Diego,2024-12-03,7643.31
+2623,Kaitlin Medina,46,Female,Philadelphia,2022-07-19,4826.81
+2624,Colleen Wright,37,Male,Jacksonville,2022-05-18,6268.75
+2625,Shelley Miller,19,Female,Austin,2022-08-24,3338.48
+2626,Michael Miller,61,Male,Jacksonville,2022-08-12,9686.09
+2627,Amy Kelley,51,Male,Dallas,2023-05-15,5195.56
+2628,Laura Hernandez,39,Female,San Diego,2022-11-24,5795.59
+2629,Joseph Wilson,69,Female,Austin,2023-04-20,7396.76
+2630,Kevin Davis,29,Female,San Antonio,2023-01-13,3024.49
+2631,Rhonda Chavez,65,Male,San Diego,2022-03-01,5986.69
+2632,Joyce Brown,42,Male,Jacksonville,2024-05-29,7203.57
+2633,Robert Cummings,31,Female,Jacksonville,2023-03-16,6360.91
+2634,Robert Reese,54,Male,Dallas,2022-05-09,8729.09
+2635,Amber Cooper,41,Female,Houston,2023-01-18,8934.18
+2636,Zachary Michael,25,Female,Austin,2024-07-26,3678.19
+2637,Timothy Johnson,51,Female,San Jose,2024-09-29,7664.1
+2638,Randy Cannon,57,Female,San Jose,2024-03-06,7848.21
+2639,Maria Fisher,40,Female,San Diego,2022-08-22,5121.82
+2640,Janet Kane DVM,70,Female,San Jose,2022-12-20,4198.91
+2641,Michael Stanley,61,Male,Philadelphia,2022-06-23,5811.3
+2642,Martha Bailey,33,Female,Los Angeles,2022-08-30,3938.72
+2643,Joshua Rice,41,Male,Dallas,2023-01-10,7448.05
+2644,Courtney Smith,44,Male,San Jose,2024-03-06,4771.19
+2645,Edwin Nunez,45,Male,San Diego,2024-02-25,6436.18
+2646,Kim Morrow,53,Male,San Diego,2022-12-21,7409.59
+2647,Gregory Hill,26,Male,Philadelphia,2023-08-15,3732.07
+2648,Molly Rodriguez,57,Male,Philadelphia,2024-07-12,4275.98
+2649,Jennifer Miranda,49,Male,Houston,2022-01-20,8203.88
+2650,Alexis Harris,53,Female,San Antonio,2024-02-26,4956.48
+2651,Andrew Harper,44,Female,San Diego,2024-10-04,4093.03
+2652,Amber Yang,23,Male,Houston,2022-12-09,6529.6
+2653,David Robinson,20,Female,Houston,2023-08-22,7061.52
+2654,Amy Gordon,28,Female,San Jose,2023-08-15,6450.53
+2655,Robert Dennis,53,Male,San Jose,2024-10-11,6897.99
+2656,Kyle Chambers,35,Female,Dallas,2022-08-22,5169.88
+2657,Eric Thomas,66,Female,Dallas,2022-03-27,5568.75
+2658,Connie Turner,45,Male,Jacksonville,2023-03-24,5453.53
+2659,Travis Hobbs,37,Male,San Diego,2023-05-22,7192.8
+2660,Lori Simmons,40,Male,San Diego,2023-06-23,4015.11
+2661,William David DDS,67,Male,Houston,2022-08-29,4758.14
+2662,Emma Butler,63,Female,Chicago,2023-12-20,1674.97
+2663,James Webster,68,Male,Houston,2022-10-13,8590.8
+2664,Samuel Turner,54,Female,Dallas,2022-05-02,7325.35
+2665,Renee Melendez,56,Male,Philadelphia,2023-07-30,5994.68
+2666,Tracy Grant,36,Female,Dallas,2023-08-23,6456.72
+2667,David Harris,26,Female,New York,2022-07-15,3455.69
+2668,Tammy Boone,59,Male,Jacksonville,2023-07-22,4711.04
+2669,Nathaniel Lee,33,Male,Jacksonville,2022-09-29,5634.06
+2670,Michael Morrison,33,Female,San Diego,2023-10-22,6637.53
+2671,Chelsea Gill,54,Female,Austin,2022-10-19,8194.84
+2672,Kristin Mendoza,42,Female,Los Angeles,2024-04-28,5106.97
+2673,Felicia Krueger,43,Female,Jacksonville,2022-07-10,7066.32
+2674,Timothy Hayden,47,Female,Philadelphia,2024-01-26,12522.82
+2675,Zachary Mendoza,67,Male,Jacksonville,2022-01-06,5158.46
+2676,Larry Harris,58,Female,Los Angeles,2024-07-27,10438.4
+2677,Kristen Rowe,43,Male,San Antonio,2024-12-30,3877.03
+2678,Joseph Howard,49,Female,Philadelphia,2023-03-10,6237.35
+2679,Jose Crawford,39,Male,San Jose,2023-08-04,10677.75
+2680,William Harrison,68,Female,Austin,2024-09-20,4617.05
+2681,Suzanne Wood,20,Male,Austin,2022-04-10,3082.34
+2682,Justin Walker,19,Male,Chicago,2024-07-30,8490.54
+2683,Dean Donovan,47,Male,San Antonio,2024-06-22,6828.66
+2684,Jennifer Hernandez,62,Male,Austin,2023-02-19,5340.2
+2685,James Whitaker,28,Female,Los Angeles,2023-09-11,5991.02
+2686,Mr. Michael Scott PhD,34,Male,Philadelphia,2024-01-09,10817.02
+2687,Maria Henry,21,Female,Austin,2022-12-05,6468.66
+2688,Robert Jackson,64,Male,San Antonio,2023-09-18,4307.39
+2689,Katherine Stark,63,Male,New York,2022-07-06,6251.61
+2690,Maria Brown,48,Male,Chicago,2023-03-14,4690.89
+2691,Ryan Landry,51,Female,New York,2023-04-09,6535.46
+2692,Pamela Gutierrez,62,Female,Los Angeles,2022-01-17,4978.36
+2693,Crystal Mann,62,Male,San Diego,2024-05-14,7396.28
+2694,Jonathan Brooks,32,Female,Los Angeles,2022-05-26,6264.95
+2695,Mary Jensen,24,Female,Philadelphia,2022-07-29,5682.51
+2696,Mr. Aaron Arnold,26,Female,Chicago,2023-09-05,4674.28
+2697,Joseph Hill,22,Male,San Jose,2022-10-20,11295.93
+2698,Alicia Li,46,Female,Jacksonville,2022-12-03,7105.4
+2699,Renee Browning,58,Male,San Antonio,2023-03-13,5502.26
+2700,Brent Hernandez,31,Male,Los Angeles,2024-06-25,10622.74
+2701,Joseph Ochoa,66,Male,San Jose,2022-10-14,3220.95
+2702,James Watson,40,Female,Philadelphia,2024-02-26,4896.71
+2703,Karl Branch,33,Female,Austin,2022-10-14,6963.73
+2704,Michael Abbott,33,Female,Jacksonville,2022-06-22,5011.07
+2705,Shannon Malone,60,Female,Houston,2022-02-24,4072.4
+2706,James Tran,56,Male,Jacksonville,2024-11-26,7606.41
+2707,Adam Jackson,36,Male,Houston,2024-03-13,8493.65
+2708,Mr. Richard Knight PhD,42,Male,Houston,2024-10-10,2873.96
+2709,Joseph Williams,58,Male,Dallas,2024-10-20,396.27
+2710,Sean Clay,41,Female,Chicago,2022-01-25,3779.38
+2711,Anthony Jones,54,Female,Philadelphia,2024-03-03,6598.75
+2712,Stephanie Elliott,66,Female,Los Angeles,2022-12-20,6901.37
+2713,Timothy Edwards,55,Male,New York,2022-02-04,5614.41
+2714,Laurie Goodwin,31,Male,New York,2023-06-21,8073.29
+2715,Jennifer Jones,50,Female,Austin,2024-03-26,942.85
+2716,David Davenport,67,Female,San Antonio,2024-10-23,3861.38
+2717,Steven Rivera,23,Male,Phoenix,2024-04-03,2970.67
+2718,Brenda Hinton,37,Male,Dallas,2022-06-21,4500.3
+2719,Kathryn Mccann,69,Male,Dallas,2023-02-21,5597.84
+2720,Jeffrey Roberson,43,Male,Phoenix,2023-11-01,10098.08
+2721,Randy Friedman,64,Male,New York,2024-06-14,5842.79
+2722,Raymond Johnson,23,Female,Los Angeles,2023-05-16,6986.98
+2723,Willie Henry,57,Male,Phoenix,2024-07-17,6374.73
+2724,Todd Reynolds,25,Male,Jacksonville,2022-12-26,7552.22
+2725,Mary Miller,62,Male,Chicago,2022-10-09,3980.68
+2726,Rebecca Marquez,40,Female,Chicago,2024-10-13,4733.32
+2727,Christian Dawson,26,Female,Jacksonville,2024-02-01,5299.62
+2728,Nancy Stewart,67,Male,Philadelphia,2022-08-30,3495.7
+2729,Aaron Parker,35,Male,Phoenix,2024-05-29,8832.35
+2730,Derrick Anderson,49,Female,Dallas,2022-06-07,4465.34
+2731,Jerry Peters,21,Female,San Jose,2024-01-08,4257.01
+2732,Alexander Gomez,41,Male,Phoenix,2022-12-08,4629.84
+2733,Kyle Nguyen,54,Male,Houston,2022-07-30,7186.1
+2734,Edgar Hughes,18,Male,New York,2024-11-08,6320.34
+2735,Steven Stein,20,Female,Philadelphia,2023-05-16,5254.06
+2736,Laura Jackson,27,Male,New York,2024-02-24,8256.53
+2737,Charles Turner,32,Female,Houston,2024-05-08,3440.09
+2738,Arthur Hamilton MD,64,Female,Phoenix,2024-05-02,5471.6
+2739,Mr. David Wright,54,Female,Los Angeles,2022-06-09,6677.27
+2740,Linda Gonzalez,61,Male,Chicago,2024-10-25,5450.55
+2741,Eric Rush,69,Male,San Antonio,2023-04-03,5442.43
+2742,Manuel Brock,47,Female,Phoenix,2022-05-22,12053.27
+2743,George Ochoa,23,Female,New York,2023-11-02,7810.53
+2744,Valerie Taylor,30,Female,San Jose,2024-01-26,5677.59
+2745,Travis Harris,65,Male,San Diego,2023-09-15,2880.02
+2746,Vincent Novak,55,Female,Houston,2024-01-25,6548.39
+2747,Michael Henry,27,Male,San Antonio,2023-05-18,2492.21
+2748,Dana Bennett,32,Female,Austin,2022-02-18,6370.06
+2749,Jenna Wilson,39,Male,Austin,2022-01-20,7879.59
+2750,Leslie Gardner,65,Female,Los Angeles,2024-02-10,3844.77
+2751,Krista Benton,51,Male,San Antonio,2023-02-25,8145.14
+2752,Michael Gonzales,21,Male,Jacksonville,2024-10-04,5672.57
+2753,Michael Fuentes,23,Male,Houston,2023-07-28,7904.08
+2754,Jennifer Porter,44,Female,San Diego,2024-11-30,7589.51
+2755,Dana Hopkins,55,Male,Dallas,2022-06-23,7067.26
+2756,Rachel Jones,58,Female,Los Angeles,2022-10-01,6739.04
+2757,Karen Morales DDS,45,Male,Houston,2022-05-08,6613.35
+2758,Melissa Stephens,34,Female,San Antonio,2023-08-21,3636.62
+2759,Heather Woodard,38,Female,Phoenix,2023-10-31,5767.27
+2760,Margaret Miller,22,Male,Chicago,2023-04-24,3045.4
+2761,Mary Kelly,27,Male,Chicago,2022-08-12,4253.14
+2762,Amanda Terrell,47,Female,San Antonio,2024-07-09,7710.86
+2763,Jennifer Goodwin,52,Female,Houston,2022-09-05,3017.74
+2764,Jessica Smith,37,Female,Phoenix,2024-07-14,6305.17
+2765,Jorge Stone,23,Male,Austin,2022-09-03,4672.19
+2766,Laura Griffin,70,Male,Houston,2023-09-16,3863.45
+2767,Raymond Chapman,27,Male,Jacksonville,2023-11-03,9621.27
+2768,Haley Johnson,40,Female,Dallas,2023-05-24,5342.06
+2769,Jason Nixon,61,Female,Phoenix,2022-04-11,5694.45
+2770,Todd Thomas,19,Female,San Diego,2022-12-23,5605.79
+2771,Jesse Clark,24,Female,Los Angeles,2023-05-27,6232.25
+2772,Mr. Jeffrey Horton,25,Male,New York,2022-10-14,6524.71
+2773,Eric Patrick,26,Male,San Antonio,2023-04-01,6836.66
+2774,Samuel Wong,61,Male,San Jose,2024-02-02,7906.21
+2775,Carly Riggs,70,Male,New York,2023-06-15,6662.82
+2776,Christopher Moore,30,Female,Chicago,2022-05-13,5141.38
+2777,Tina Hall,69,Female,Los Angeles,2022-07-08,6987.82
+2778,Cody Davidson,47,Male,Chicago,2022-03-29,6985.33
+2779,Allen Mendez,70,Female,San Diego,2024-06-06,7130.88
+2780,Kevin Price,42,Female,Chicago,2022-03-02,4909.16
+2781,Christine Goodwin,31,Male,Phoenix,2023-12-26,10246.43
+2782,Amy Garcia,46,Male,New York,2023-07-28,6537.05
+2783,Chelsea Nguyen,59,Female,San Diego,2023-05-19,6565.96
+2784,Dennis Huffman,53,Female,New York,2024-04-23,6508.73
+2785,Margaret Harper,35,Female,Chicago,2022-06-29,5349.9
+2786,Laurie Bailey,30,Male,Austin,2024-05-08,12998.29
+2787,Lisa Cervantes,42,Female,San Diego,2022-02-09,5244.86
+2788,Elizabeth Mendez,40,Female,San Antonio,2024-09-19,5833.22
+2789,Cesar Wilson,29,Male,Philadelphia,2023-07-08,7262.23
+2790,Clayton Steele,19,Female,New York,2023-03-25,5361.18
+2791,Jennifer Taylor,51,Female,San Jose,2024-08-24,4293.11
+2792,Cody Reid,28,Male,Houston,2023-04-22,6517.72
+2793,Maria Cooke,35,Male,Houston,2023-05-09,4142.29
+2794,Katherine Taylor,40,Male,Chicago,2024-03-06,4056.85
+2795,Jerry Brown,55,Female,Jacksonville,2023-04-30,6502.65
+2796,Adam Taylor,55,Male,Jacksonville,2024-01-05,4923.18
+2797,Tracey Wagner,54,Male,San Jose,2023-12-22,3410.14
+2798,Michael Perry PhD,69,Female,Dallas,2023-01-21,4685.85
+2799,Bradley Johnson DDS,29,Female,New York,2023-09-25,10225.59
+2800,Donald Medina,21,Male,San Jose,2022-07-04,9343.33
+2801,Jim Newton,19,Female,New York,2023-03-25,6420.68
+2802,Krista Wilson,57,Male,Chicago,2023-11-11,7601.21
+2803,Reginald Morrow,63,Male,Philadelphia,2023-11-29,4180.18
+2804,Rodney Williams,19,Male,San Jose,2022-05-02,8353.45
+2805,Kimberly Fritz,67,Male,Dallas,2022-10-18,5162.64
+2806,Ronald Potter,22,Female,Jacksonville,2024-01-18,7749.94
+2807,Zachary Cole,55,Male,Philadelphia,2024-03-21,9948.66
+2808,Robert Gonzales,38,Male,Chicago,2023-09-11,8813.32
+2809,Patricia Young PhD,68,Female,Austin,2024-06-13,2434.73
+2810,Heather Page,29,Female,Houston,2023-10-12,11773.45
+2811,Carol Taylor,42,Female,Jacksonville,2022-12-26,4168.29
+2812,Daniel Brown,26,Male,Jacksonville,2023-08-27,7070.29
+2813,Douglas Ryan,62,Female,San Jose,2022-01-04,6546.11
+2814,Michael Roberts,29,Female,San Jose,2022-03-08,6940.04
+2815,Scott Duke,58,Male,San Diego,2023-03-29,5282.29
+2816,Anna Estes,39,Male,Houston,2022-10-16,8750.33
+2817,Tamara Riddle,38,Male,Austin,2023-12-12,4266.84
+2818,Beth Cline,70,Female,San Diego,2022-07-01,5172.53
+2819,Michael Poole,34,Male,Houston,2022-01-24,7374.38
+2820,Megan Burns,40,Female,Los Angeles,2022-05-19,4733.29
+2821,Debra Perry,21,Female,San Diego,2022-01-03,7088.07
+2822,Mark Beard,28,Female,San Diego,2024-05-09,8555.14
+2823,Jose Ramirez,40,Female,Los Angeles,2024-02-15,5479.36
+2824,Jackie Clements,68,Male,Chicago,2024-09-08,2575.22
+2825,Aaron Schroeder,22,Male,Phoenix,2024-07-13,7616.91
+2826,Monica Ellis,38,Female,Los Angeles,2022-02-11,4284.37
+2827,Heather Brown,39,Male,San Antonio,2022-06-01,6917.32
+2828,Claudia Jordan,64,Male,Dallas,2022-11-26,10650.88
+2829,Derrick Clayton,39,Female,Jacksonville,2022-07-10,6303.44
+2830,Kenneth Knight,45,Male,San Jose,2022-03-05,6691.24
+2831,Mr. Michael Williams,28,Male,Los Angeles,2024-06-08,6166.26
+2832,Richard Stevens,31,Male,San Antonio,2023-11-10,5178.03
+2833,Scott Alexander,60,Female,Phoenix,2023-06-28,6152.03
+2834,Tyler Harris,24,Male,San Antonio,2023-05-02,6506.06
+2835,Bonnie Santos,27,Male,Philadelphia,2024-10-02,3996.69
+2836,Timothy Hill,45,Male,Phoenix,2022-01-08,3268.1
+2837,Danielle Watson,30,Male,New York,2024-09-10,6580.43
+2838,Carol Sanders,28,Female,Los Angeles,2023-02-28,3815.1
+2839,Michael Young,25,Female,San Antonio,2024-08-27,7910.18
+2840,Michele Smith,49,Female,Los Angeles,2024-08-22,5195.08
+2841,Casey Perez,29,Female,San Antonio,2024-03-04,4756.98
+2842,Alexandra Dominguez,29,Female,New York,2024-01-27,3419.44
+2843,Virginia Henderson,46,Female,Phoenix,2023-06-24,7974.43
+2844,Benjamin Reyes,35,Male,Chicago,2023-04-09,3278.89
+2845,Ashley Edwards,23,Female,Dallas,2022-07-18,8202.18
+2846,Breanna Ayala,66,Male,Dallas,2024-04-27,8930.49
+2847,Brandi Haney,42,Female,Dallas,2022-05-05,6068.61
+2848,Joseph Smith,54,Male,San Diego,2024-08-30,6375.11
+2849,Jessica Bowen,23,Female,Jacksonville,2023-09-05,5000.47
+2850,Brittany Jenkins,50,Male,Los Angeles,2022-03-13,8076.37
+2851,Shannon Miller,29,Male,Houston,2024-07-08,6822.52
+2852,Paul Lawrence,26,Male,San Antonio,2023-01-30,4097.44
+2853,Victor Edwards,61,Female,Houston,2022-06-10,2340.25
+2854,Donald Miller,56,Female,Philadelphia,2022-10-30,8030.33
+2855,Lindsay Lawson,23,Female,Dallas,2022-05-18,8421.47
+2856,Melissa Abbott,53,Female,Phoenix,2024-03-24,6509.61
+2857,Elizabeth Holmes,47,Male,Jacksonville,2024-11-30,6358.01
+2858,Nicole Phillips,68,Female,Los Angeles,2024-12-06,6241.12
+2859,Steven Blevins,27,Male,San Jose,2024-04-28,5965.25
+2860,Brian Porter MD,24,Male,Phoenix,2022-07-25,8908.53
+2861,Vanessa Hatfield,44,Female,San Antonio,2023-12-06,6842.12
+2862,Bonnie Valencia,54,Female,New York,2024-09-21,6310.46
+2863,Holly Vega,35,Female,Chicago,2022-12-19,11864.34
+2864,Tiffany Townsend,20,Female,Philadelphia,2024-04-02,6233.78
+2865,Austin Baker,21,Female,Phoenix,2023-05-02,8870.98
+2866,Antonio Mccormick,19,Female,Phoenix,2024-02-02,5192.99
+2867,Lori Mason,35,Female,Jacksonville,2023-09-29,5951.13
+2868,Michael Miller,32,Male,Phoenix,2022-07-21,6347.27
+2869,Lisa Ramirez,67,Female,Phoenix,2024-06-26,3002.33
+2870,Jorge Harris,56,Male,Houston,2024-05-03,4107.43
+2871,Kimberly Myers,31,Female,Jacksonville,2024-06-23,5424.73
+2872,Sandra Becker,66,Female,New York,2024-09-19,1686.82
+2873,Michael Blair,68,Male,Los Angeles,2024-11-21,7096.45
+2874,Amy Miller,63,Female,Chicago,2023-09-30,4447.45
+2875,Jesse Lynch,54,Male,Chicago,2024-12-09,4448.4
+2876,Patrick Yang,30,Male,Houston,2023-01-30,6748.56
+2877,Michael Miles,47,Male,Philadelphia,2022-03-09,5570.99
+2878,Troy Mills,35,Female,San Diego,2023-02-12,7067.6
+2879,Michelle Jackson,43,Male,Austin,2024-10-31,3950.56
+2880,Richard Adams,33,Female,San Diego,2022-03-04,5035.16
+2881,Patricia Johnson,29,Female,San Jose,2024-07-02,3877.82
+2882,Denise Brown,40,Male,Phoenix,2023-12-18,7631.19
+2883,Laura Jones,36,Male,San Antonio,2022-07-05,8955.68
+2884,Ian Porter,28,Male,Houston,2022-04-12,4002.48
+2885,Holly Scott,61,Male,Phoenix,2023-04-07,4067.32
+2886,Kenneth Sharp,50,Male,Austin,2024-04-18,3247.66
+2887,Jordan Williams,48,Male,Austin,2022-01-19,6431.75
+2888,Dana Ruiz,56,Male,Houston,2022-12-21,5531.85
+2889,Chris Velazquez,56,Female,Jacksonville,2023-06-01,9825.65
+2890,Kristen Sloan,45,Female,Philadelphia,2023-07-18,4257.0
+2891,Jennifer Morris,34,Male,San Diego,2024-07-29,3867.57
+2892,Nathan Nelson,61,Female,San Jose,2023-09-11,8368.28
+2893,Jake Shaw,18,Female,Dallas,2022-07-29,8674.89
+2894,Cassie Brock,37,Male,San Diego,2023-08-02,7391.87
+2895,Dr. Andrea Marshall,39,Female,Austin,2022-05-11,4018.19
+2896,Ryan Murphy,35,Female,Austin,2023-10-28,4480.41
+2897,Aimee Gonzalez,30,Male,Dallas,2023-09-04,9683.21
+2898,Elizabeth Dean,21,Female,Austin,2023-05-08,6331.99
+2899,Kevin Snyder,61,Male,Jacksonville,2023-10-17,5628.76
+2900,Christie Mccullough,59,Female,Phoenix,2022-02-22,8070.23
+2901,Danielle Smith,44,Female,San Antonio,2023-06-16,2620.71
+2902,David Reed,55,Male,Philadelphia,2022-03-14,4632.32
+2903,Sherry Tapia,61,Female,Austin,2023-04-01,5183.35
+2904,Matthew Sweeney,50,Female,Chicago,2024-01-05,4413.05
+2905,Ashley Moreno,36,Male,San Diego,2023-01-06,4693.71
+2906,Johnathan Brown,65,Female,Jacksonville,2022-09-20,7972.29
+2907,Michelle Davis DVM,61,Female,Austin,2023-01-10,5949.7
+2908,Kelly Haynes,32,Female,Houston,2022-07-02,8369.03
+2909,William Miller,44,Female,Philadelphia,2023-09-21,6957.81
+2910,Casey Wilkins,55,Female,San Diego,2023-06-18,4741.76
+2911,Keith Graham,48,Male,Austin,2022-08-30,7965.82
+2912,Cynthia Green,48,Male,Dallas,2022-05-26,6724.73
+2913,Robert Haynes,61,Female,Dallas,2022-09-03,9622.45
+2914,Emily Nelson,44,Male,Chicago,2023-09-04,8786.83
+2915,Dale Chan,30,Female,San Antonio,2022-10-09,3294.83
+2916,Brittney Martin,27,Female,Jacksonville,2024-07-26,5709.49
+2917,Jason Herrera,67,Male,San Diego,2023-01-05,5410.57
+2918,Christine Parker,58,Male,Philadelphia,2023-11-13,5046.34
+2919,Bryan Moore,18,Female,Phoenix,2022-04-29,3633.28
+2920,Samantha Terry,66,Male,San Jose,2023-03-05,6518.97
+2921,Russell Murphy,49,Male,Chicago,2022-11-21,6164.54
+2922,David Kelly,58,Female,San Antonio,2024-06-07,5706.4
+2923,Megan Green,48,Female,New York,2024-05-28,2981.02
+2924,Amanda Sullivan MD,52,Male,Jacksonville,2022-03-19,2954.68
+2925,Danielle Murray,18,Female,Dallas,2024-02-04,3795.28
+2926,Brenda Smith,19,Male,Austin,2023-01-26,4854.48
+2927,Vickie Anderson,32,Female,Phoenix,2023-05-25,5310.43
+2928,Jacqueline Mccoy,24,Female,Dallas,2022-09-22,6756.85
+2929,Lauren Green,28,Male,New York,2023-09-19,6912.55
+2930,Alison Brown,36,Female,Jacksonville,2023-09-03,6428.86
+2931,Jill Anderson,56,Female,San Antonio,2024-12-01,4816.93
+2932,Sandra Rivera,39,Female,Philadelphia,2022-10-02,7192.23
+2933,Joel Jackson,28,Female,New York,2023-01-21,2829.8
+2934,Samantha Foster,32,Male,Houston,2023-04-13,8572.66
+2935,Michael Thompson,55,Male,Los Angeles,2022-02-14,5125.8
+2936,Cody Ramirez,63,Male,San Antonio,2024-01-21,9472.32
+2937,Amanda Harvey,67,Male,San Jose,2023-06-08,6960.62
+2938,Edward Jenkins,60,Male,Austin,2022-04-09,5803.22
+2939,Amy Ramirez,21,Male,San Antonio,2022-02-10,8511.69
+2940,Curtis Wilkerson,42,Male,Dallas,2024-06-28,5686.06
+2941,Lydia Pham,48,Male,Houston,2023-06-02,7560.79
+2942,Virginia Casey,37,Female,Austin,2022-01-20,7769.65
+2943,Joshua Washington,60,Female,San Jose,2022-07-26,7480.69
+2944,Kathryn Price,44,Male,Dallas,2022-10-08,2535.19
+2945,Francis Robinson,36,Male,Los Angeles,2022-08-30,6288.55
+2946,Paula Brown,30,Male,Phoenix,2024-10-16,9129.69
+2947,Kendra Wang DVM,30,Female,Jacksonville,2024-12-07,9026.7
+2948,Ariel Sandoval,36,Male,New York,2024-04-19,5125.96
+2949,Robert Stark,31,Female,Philadelphia,2024-10-13,5138.69
+2950,Zachary Robinson,18,Male,Austin,2023-04-26,4876.42
+2951,Rebecca Kelly,25,Female,Chicago,2022-07-02,4836.44
+2952,Sarah Thompson,67,Male,Jacksonville,2022-07-04,7132.97
+2953,Renee Wolfe,34,Male,San Diego,2022-07-27,6914.32
+2954,Alyssa Haynes,34,Female,New York,2023-08-30,5600.78
+2955,Kristy Hart,70,Male,New York,2022-07-24,6333.88
+2956,William Keith,41,Female,San Antonio,2023-08-19,8137.32
+2957,Eric Henry Jr.,24,Male,New York,2022-08-26,4711.67
+2958,Daniel Fox,60,Male,Philadelphia,2022-10-11,5013.97
+2959,Thomas Harris,46,Female,Jacksonville,2024-01-03,4830.71
+2960,Mitchell Sellers,41,Female,Chicago,2022-07-10,3636.98
+2961,Erica Johnson,43,Female,San Diego,2022-08-22,6261.55
+2962,Sylvia Schroeder,42,Female,San Antonio,2023-07-11,9933.17
+2963,Shannon Yu,25,Male,Jacksonville,2022-12-08,4980.3
+2964,Tom Foster,28,Male,San Antonio,2022-05-01,4135.92
+2965,Eric Taylor,69,Female,Chicago,2024-09-15,6539.01
+2966,Travis Conner,67,Female,San Jose,2024-02-17,4786.11
+2967,Marie Thompson,61,Male,San Diego,2022-03-01,6559.7
+2968,Melissa Mcfarland,25,Female,San Diego,2024-09-26,5274.03
+2969,Courtney Chapman,22,Female,Austin,2022-04-05,4601.47
+2970,Eric Barker,18,Male,Austin,2023-10-06,4412.87
+2971,Nicholas Rush,51,Male,San Antonio,2023-11-24,5869.83
+2972,Jenna Gamble,48,Female,Austin,2023-05-25,5211.97
+2973,Amanda Guzman,27,Male,New York,2024-02-28,7374.18
+2974,Tracy Walker,50,Female,San Diego,2022-11-18,6497.45
+2975,Taylor Taylor,22,Female,Philadelphia,2022-12-05,3595.22
+2976,Cynthia Haas,39,Female,New York,2023-05-09,2565.38
+2977,Stephen Davis,32,Female,San Antonio,2024-11-04,6250.61
+2978,Margaret Tanner,23,Female,San Diego,2023-04-27,4781.32
+2979,Derek Wright,23,Female,San Diego,2024-07-06,6093.2
+2980,David Rodriguez,25,Female,Jacksonville,2023-10-10,5096.73
+2981,James Oconnor,24,Female,San Antonio,2022-02-06,6174.22
+2982,Stacey Snyder,53,Male,Los Angeles,2022-03-15,3239.18
+2983,Joshua Garcia,50,Male,Austin,2023-09-16,7967.79
+2984,Sean Curtis,39,Female,New York,2024-07-23,11223.48
+2985,Carla Jones,47,Female,Dallas,2023-04-02,7723.95
+2986,Elizabeth Flores,63,Female,Jacksonville,2024-08-26,5482.26
+2987,Angela Jackson,25,Male,Austin,2024-07-15,10035.56
+2988,Nicholas Payne,18,Female,Philadelphia,2023-03-31,4877.82
+2989,Anna Wheeler,53,Female,Jacksonville,2023-08-21,4277.89
+2990,Karen Johnson,20,Male,San Diego,2022-08-06,6416.8
+2991,Carmen Preston,70,Female,Los Angeles,2022-10-15,8731.63
+2992,Brian Harris,57,Male,Houston,2023-06-05,4214.09
+2993,Michael Bowen,43,Male,San Diego,2022-09-05,5416.33
+2994,Deborah Campbell,63,Female,Los Angeles,2023-01-26,12149.74
+2995,Anthony Armstrong,20,Male,San Diego,2024-04-28,8409.42
+2996,Brittany Ward,60,Male,San Diego,2024-07-25,10718.78
+2997,Edward Stanley,51,Male,Dallas,2022-01-09,5112.08
+2998,Christina Johnson,55,Female,Dallas,2024-06-05,6539.34
+2999,Edgar Miller,62,Male,Jacksonville,2022-12-29,8798.38
+3000,Elizabeth Sanders,24,Female,Austin,2022-09-20,7315.61
