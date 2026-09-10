@@ -1,5 +1,5 @@
 Customer_ID,Number_Of_Purchases,Total_Quantity,Sales_Revenue,Average_Purchase,Age,Gender,Location,Join_Date,Total_Spent
-2001,2,5,190.0,95.0,28,Female,New York,2022-05-10,500.0
+2001,2,5,80.0,40.0,28,Female,New York,2022-05-10,500.0
 2002,1,1,75.0,75.0,35,Male,Los Angeles,2022-06-15,750.0
 2003,1,1,120.0,120.0,22,Male,Chicago,2022-07-20,300.0
-2004,1,2,90.0,90.0,30,Female,Houston,2022-08-25,600.0
+2004,1,2,45.0,45.0,30,Female,Houston,2022-08-25,600.0
